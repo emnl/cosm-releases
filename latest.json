@@ -1,6 +1,6 @@
 {
   "version": "0.1.1",
-  "notes": "The app is now called Cosm. Since 0.1.0: Reflect and Log at the top of the chat, logs filed straight to the archive, answer buttons showing their keys, and selected text you can ask about.",
+  "notes": "The app is now called Cosm.",
   "pub_date": "2026-10-24T23:59:04Z",
   "platforms": {
     "darwin-aarch64": {

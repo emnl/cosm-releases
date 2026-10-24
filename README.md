@@ -16,4 +16,4 @@ After that it opens like any app, and it updates itself.
 
 ## What is new in 0.1.1
 
-The app is now called Cosm. Since 0.1.0: Reflect and Log at the top of the chat, logs filed straight to the archive, answer buttons showing their keys, and selected text you can ask about.
+The app is now called Cosm.
