@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "The first version for friends.",
-  "pub_date": "2026-10-24T23:40:41Z",
+  "version": "0.1.1",
+  "notes": "The app is now called Cosm. Since 0.1.0: Reflect and Log at the top of the chat, logs filed straight to the archive, answer buttons showing their keys, and selected text you can ask about.",
+  "pub_date": "2026-10-24T23:59:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd0FjeFJuU3BqQUE2bEF1RzlTbkpVOHhDSVpRMzhKNFBzRW00RE1ONE12alluSXpOSEtUOHoyV2JsMVYzaXR3Q3F1U1lSdDdDSzVCQU0xWXBBSlozMjZQRStnOU1NdXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg1MjM5CWZpbGU6Y29zbS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKN3AwRlBLNURzZ2I1QXJzWTdlUjE0L2NtVzljNGgrZmJOZENkcWtBeE9HdmdDaFFxcnhFc0RDOHl4Tys4WmxrQVN0TGlOUmQ2K1ltd3ZFN01iRGV1Qmc9PQo=",
-      "url": "https://raw.githubusercontent.com/emnl/cosm-releases/main/updates/cosm-0.1.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd0FjeFJuU3BqQUJZQkFFS2N2cGJuK2F1SmdHODgrOXluZXdnakc1czR2Y3dhMmZ1czkxYjVERHNjOG9IMXR6dHhIWlRFeHNiMkFPL2JteElRUmt2WG5hTHZrejdsb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2MzQzCWZpbGU6Q29zbS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKSUZPSGVrbEJ1TzRMbjlKN3ArenYxWlFDMVZJYkpxRmoyTHg1Z2d0ckwwd0J1NnhRSGd1Nlh3TGZRelV5RXc1OVY3MFNyS1lLN2RJdnZ1NThzczRzQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/emnl/cosm-releases/main/updates/cosm-0.1.1.app.tar.gz"
     }
   }
 }
