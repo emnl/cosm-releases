@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "The app is now called Cosm.",
-  "pub_date": "2026-10-24T23:59:04Z",
+  "version": "0.1.2",
+  "notes": "Cosm is now extended by packages: ask the agent for something Cosm doesn't do (a page that sums up your notes, keeping the cosm in git) and it builds it, then asks before switching it on; Settings \u2192 Packages switches them on and off. Cosm's own layout, its colours and the agent are packages too. Also: bold, links and headings can be edited by their markdown marks, which show as you type in them; clicking below a page puts the cursor at its end; Claude Code's own screen is larger, sharper and in Cosm's colours, and its page links can be clicked; choose the app icon in Settings; a quieter update notice.",
+  "pub_date": "2026-10-25T11:24:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd0FjeFJuU3BqQUJZQkFFS2N2cGJuK2F1SmdHODgrOXluZXdnakc1czR2Y3dhMmZ1czkxYjVERHNjOG9IMXR6dHhIWlRFeHNiMkFPL2JteElRUmt2WG5hTHZrejdsb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2MzQzCWZpbGU6Q29zbS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKSUZPSGVrbEJ1TzRMbjlKN3ArenYxWlFDMVZJYkpxRmoyTHg1Z2d0ckwwd0J1NnhRSGd1Nlh3TGZRelV5RXc1OVY3MFNyS1lLN2RJdnZ1NThzczRzQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/emnl/cosm-releases/main/updates/cosm-0.1.1.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd0FjeFJuU3BqQUVuNUoxcjRrRXNuWlVNeC8xcTdDZ0VvSDVNaE1mWFFzenlpdUl1b3RRTXRyNXlFMzA5N0FmZFlGdlpPbDczV01Za3lFQVhRdXZpRWZPeVBpK0dJb2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI3NDU4CWZpbGU6Q29zbS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKZTN4THdpa2lHaUZCRDVTS3AvODNZUWV2czhReXQ2OG5TWVc0UHk2S0U2ajNhMzlaajc2S3IvRk5qcVFrY1c4R3BHbitkNFA2S0d5aTdxemJyQXRJQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/emnl/cosm-releases/main/updates/cosm-0.1.2.app.tar.gz"
     }
   }
 }
